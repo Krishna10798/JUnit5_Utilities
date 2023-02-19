@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Rerun MathUtilsTest" project="Junit5-Basics" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="com.testing.MathUtilsTest" time="0.021" displayname="MathUtilsTest" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]">
+    <testcase name="testMultiplication" classname="com.testing.MathUtilsTest" time="0.008" displayname="testMultiplication()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testMultiplication()]"/>
+    <testcase name="testAddition" classname="com.testing.MathUtilsTest" time="0.002" displayname="Testing add method" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testAddition()]"/>
+    <testcase name="testcircleArea" classname="com.testing.MathUtilsTest" time="0.003" displayname="testcircleArea()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testcircleArea()]"/>
+    <testcase name="testSubstraction" classname="com.testing.MathUtilsTest" time="0.002" displayname="testSubstraction()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testSubstraction()]"/>
+    <testcase name="testDevision" classname="com.testing.MathUtilsTest" time="0.004" displayname="testDevision()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testDevision()]"/>
+  </testsuite>
+</testrun>

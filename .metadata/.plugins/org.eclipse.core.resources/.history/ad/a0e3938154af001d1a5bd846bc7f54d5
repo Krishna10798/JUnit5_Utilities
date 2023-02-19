@@ -1,0 +1,45 @@
+package com.testing;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class MathUtilsTest {
+
+	@Test
+	void testAddition() {
+		MathUtils mathUtils=new MathUtils();
+		int excepted =20;
+		int actual=mathUtils.add(19, 1);
+		assertEquals(excepted, actual,"this method should substract two integer number...");
+	}
+	@Test
+	void testSubstraction() {
+		MathUtils mathUtils=new MathUtils();
+		int excepted =18;
+		int actual=mathUtils.add(1, 19);
+		assertEquals(excepted, actual,"this method should multiply two integer number...");
+	}
+//	@Test
+//	void testMultiplication() {
+//		MathUtils mathUtils=new MathUtils();
+//		int excepted =19;
+//		int actual=mathUtils.add(19, 1);
+//		assertEquals(excepted, actual,"this method should devide two integer number...");
+//	}
+//	@Test
+//	void testDevision() {
+//		MathUtils mathUtils=new MathUtils();
+//		int excepted =4;
+//		int actual=mathUtils.add(20, 5);
+//		assertEquals(excepted, actual,"this method should add two integer number...");
+//	}
+	@Test
+	void testcircleArea() {
+		MathUtils mathUtils=new MathUtils();
+		double excepted =Math.PI*10*10;
+		double actual=mathUtils.computeCircleArea(10);
+		assertEquals(excepted, actual,"this method should return area of circle...");
+	}
+
+}

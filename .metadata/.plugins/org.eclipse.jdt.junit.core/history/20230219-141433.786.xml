@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Rerun MathUtilsTest" project="Junit5-Basics" tests="6" started="6" failures="0" errors="0" ignored="2">
+  <testsuite name="com.testing.MathUtilsTest" time="0.023" displayname="MathUtilsTest" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]">
+    <testcase name="testMultiplication" classname="com.testing.MathUtilsTest" time="0.01" displayname="testMultiplication()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testMultiplication()]"/>
+    <testcase name="testAddition" classname="com.testing.MathUtilsTest" time="0.001" displayname="Testing add method" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testAddition()]"/>
+    <testcase name="testcircleArea" classname="com.testing.MathUtilsTest" time="0.003" displayname="testcircleArea()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testcircleArea()]"/>
+    <testcase name="testDevision" classname="com.testing.MathUtilsTest" time="0.002" displayname="testDevision()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testDevision()]"/>
+    <testsuite name="com.testing.MathUtilsTest$SubClass" time="0.001" displayname="SubClass" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[nested-class:SubClass]">
+      <testcase name="testSubstraction1" classname="com.testing.MathUtilsTest.SubClass" time="0.0" ignored="true" displayname="testSubstraction1()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[nested-class:SubClass]/[method:testSubstraction1()]"/>
+      <testcase name="testSubstraction2" classname="com.testing.MathUtilsTest.SubClass" time="0.0" ignored="true" displayname="testSubstraction2()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[nested-class:SubClass]/[method:testSubstraction2()]"/>
+    </testsuite>
+  </testsuite>
+</testrun>

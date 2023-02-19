@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Rerun MathUtilsTest" project="Junit5-Basics" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="com.testing.MathUtilsTest" time="0.021" displayname="MathUtilsTest" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]">
+    <testcase name="testMultiplication" classname="com.testing.MathUtilsTest" time="0.007" displayname="testMultiplication()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testMultiplication()]"/>
+    <testcase name="testAddition" classname="com.testing.MathUtilsTest" time="0.001" displayname="Testing add method" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testAddition()]"/>
+    <testcase name="testcircleArea" classname="com.testing.MathUtilsTest" time="0.003" displayname="testcircleArea()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testcircleArea()]"/>
+    <testcase name="testAddition1" classname="com.testing.MathUtilsTest" time="0.001" displayname="Testing add method" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testAddition1()]"/>
+    <testcase name="testDevision" classname="com.testing.MathUtilsTest" time="0.002" displayname="testDevision()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[method:testDevision()]"/>
+    <testsuite name="com.testing.MathUtilsTest$SubClassForSubstraction" time="0.004" displayname="substraction of integers" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[nested-class:SubClassForSubstraction]">
+      <testcase name="testSubstraction1" classname="com.testing.MathUtilsTest.SubClassForSubstraction" time="0.002" displayname="testSubstraction1()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[nested-class:SubClassForSubstraction]/[method:testSubstraction1()]"/>
+      <testcase name="testSubstraction2" classname="com.testing.MathUtilsTest.SubClassForSubstraction" time="0.002" displayname="testSubstraction2()" uniqueid="[engine:junit-jupiter]/[class:com.testing.MathUtilsTest]/[nested-class:SubClassForSubstraction]/[method:testSubstraction2()]"/>
+    </testsuite>
+  </testsuite>
+</testrun>

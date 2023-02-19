@@ -1,0 +1,18 @@
+package com.testing;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class MathUtilsTest {
+
+	@Test
+	void test() {
+//		System.out.println("Not yet implemented");
+		MathUtils mathUtils=new MathUtils();
+		int excepted =2;
+		int actual=mathUtils.add(1, 1);
+		assertEquals(excepted, actual);
+	}
+
+}
